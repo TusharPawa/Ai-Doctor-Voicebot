@@ -5,7 +5,7 @@
 
 ---
 
-## 🔗 [🚀 Project Demo](DEMO_LINK_HERE)
+## 🔗 [🚀 Project Demo](https://www.youtube.com/watch?v=q0upOqxN18Y)
 
 ---
 
