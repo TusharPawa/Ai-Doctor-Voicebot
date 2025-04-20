@@ -1,6 +1,6 @@
 # 🩺 AI Doctor Voicebot
 
-A Gradio-based AI web app that accepts **user voice** and **image input** (e.g., skin infection photos) and provides a **detailed medical prescription** in both **text format** and **realistic doctor-style voice**.
+A Gradio-based AI web app that takes **user voice** and **image input** (like skin infections) and generates a **medical prescription** in both **text format** and **realistic doctor-style voice**.
 
 ---
 
@@ -10,26 +10,26 @@ A Gradio-based AI web app that accepts **user voice** and **image input** (e.g.,
 
 ## 🖼️ Web App UI Preview
 
-The below outputs showcase how the app looks during real-time interaction:
+Below are the output UI screenshots from the app in action:
 
 <p align="center">
-  <img src="Output/Output 1.jpg" width="45%" />
-  <img src="Output/Output 2.jpg" width="45%" />
+  <img src="https://github.com/TusharPawa/Ai-Doctor-Voicebot/blob/main/Outputs/Output%201.jpg?raw=true" width="45%" />
+  <img src="https://github.com/TusharPawa/Ai-Doctor-Voicebot/blob/main/Outputs/Output%202.jpg?raw=true" width="45%" />
 </p>
 <p align="center">
-  <img src="Output/Output 3.jpg" width="45%" />
-  <img src="Output/Output 4.jpg" width="45%" />
+  <img src="https://github.com/TusharPawa/Ai-Doctor-Voicebot/blob/main/Outputs/Output%203.jpg?raw=true" width="45%" />
+  <img src="https://github.com/TusharPawa/Ai-Doctor-Voicebot/blob/main/Outputs/Output%204.jpg?raw=true" width="45%" />
 </p>
 
 ---
 
-## 📥 Input & Output Comparison
+## 🧪 Input vs Output Results
 
-### 🔄 Case 1
+### 🔄 Case 1 (Displayed after app generates result)
 
 | 👈 Input | 👉 Output |
 |---------|----------|
-| ![Input 1](Output/Input.jpg) | ![Output 1](Output/Output.jpg) |
+| ![Input 1](https://github.com/TusharPawa/Ai-Doctor-Voicebot/blob/main/Outputs/Input.jpg?raw=true) | ![Output 1](https://github.com/TusharPawa/Ai-Doctor-Voicebot/blob/main/Outputs/Output.jpg?raw=true) |
 
 ---
 
@@ -37,7 +37,7 @@ The below outputs showcase how the app looks during real-time interaction:
 
 | 👈 Input | 👉 Output |
 |---------|----------|
-| ![Input 2](Output/Input_2.jpg) | ![Output 2](Output/Output_2.jpg) |
+| ![Input 2](https://github.com/TusharPawa/Ai-Doctor-Voicebot/blob/main/Outputs/Input_2.jpg?raw=true) | ![Output 2](https://github.com/TusharPawa/Ai-Doctor-Voicebot/blob/main/Outputs/Output_2.jpg?raw=true) |
 
 ---
 
@@ -45,7 +45,7 @@ The below outputs showcase how the app looks during real-time interaction:
 
 | 👈 Input | 👉 Output |
 |---------|----------|
-| ![Input 3](Output/Input_3.jpg) | ![Output 3](Output/Output_3.jpg) |
+| ![Input 3](https://github.com/TusharPawa/Ai-Doctor-Voicebot/blob/main/Outputs/Input_3.jpg?raw=true) | ![Output 3](https://github.com/TusharPawa/Ai-Doctor-Voicebot/blob/main/Outputs/Output_3.jpg?raw=true) |
 
 ---
 
@@ -53,39 +53,38 @@ The below outputs showcase how the app looks during real-time interaction:
 
 | Component        | Description |
 |------------------|-------------|
-| 🧩 **Gradio**     | Used for building the interactive front-end UI |
-| 🧠 **Groq API**   | Handles Large Language Model (LLM) processing to generate accurate medical text |
-| 🎙️ **ElevenLabs** | Converts text prescriptions into realistic doctor-tone voice |
+| 🧩 **Gradio**     | Used to design the interactive user interface |
+| 🧠 **Groq API**   | Handles LLM processing to generate accurate medical prescriptions |
+| 🎙️ **ElevenLabs** | Converts the text prescription into a doctor-like voice tone |
 
 ---
 
 ## ✨ Features
 
-- 🔊 Accepts voice input from the user
-- 🖼️ Accepts image input of visible symptoms
-- 📝 Generates text-based medical prescriptions
-- 🎧 Returns spoken prescriptions in natural doctor tone
-- 🌐 Lightweight, interactive UI
+- 🎤 Accepts voice input describing symptoms
+- 🖼️ Accepts image input for visible conditions
+- 💊 Provides smart, LLM-generated prescriptions
+- 🔊 Speaks the result in realistic doctor tone
+- 🌐 Web-based, responsive UI
 
 ---
 
-## 🚀 Future Enhancements
+## 🚀 Future Roadmap
 
-- Real-time image detection & analysis
-- Support for regional languages
-- Patient history storage & recommendation system
+- Real-time skin disease classification
+- Multi-language voice support
+- Prescription PDF download & patient tracking
 
 ---
 
 ## 🤝 Contributing
 
-Contributions are welcome! Feel free to fork this project, raise issues, or submit pull requests.
+Pull requests and suggestions are welcome!
 
 ---
 
 ## 📃 License
 
-This project is licensed under the **MIT License**.
+Licensed under the **MIT License**.
 
 ---
-
