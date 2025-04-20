@@ -12,7 +12,7 @@
 
 ## 🖼️ Web App UI Preview
 
-Below are the output UI screenshots from the app in action:
+Below are the output UI screenshots from the WebApp in action:
 
 <p align="center">
   <img src="https://github.com/TusharPawa/Ai-Doctor-Voicebot/blob/main/Outputs/Output%201.jpg?raw=true" width="45%" />
