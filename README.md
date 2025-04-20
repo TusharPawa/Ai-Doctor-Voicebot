@@ -1,6 +1,7 @@
-# 🩺 AI Doctor Voicebot
+# 🩺 AI Doctor VoiceBot  
+**A Generative AI-based Clinical Assistant for Voice & Image-Based Medical Assessment**
 
-A Gradio-based AI web app that takes **user voice** and **image input** (like skin infections) and generates a **medical prescription** in both **text format** and **realistic doctor-style voice**.
+> *Developed as a practical demonstration of multimodal AI using NLP, Speech Synthesis, and Image Analysis for healthcare applications.*
 
 ---
 
@@ -49,43 +50,35 @@ Below are the output UI screenshots from the app in action:
 
 ---
 
+## 💡 Key Features
 
-## ⚙️ Tech Stack
-
-| Component        | Description |
-|------------------|-------------|
-| 🧩 **Gradio**     | Used to design the interactive user interface |
-| 🧠 **Groq API**   | Handles LLM processing to generate accurate medical prescriptions |
-| 🎙️ **ElevenLabs** | Converts the text prescription into a doctor-like voice tone |
-
----
-
-## ✨ Features
-
-- 🎤 Accepts voice input describing symptoms
-- 🖼️ Accepts image input for visible conditions
-- 💊 Provides smart, LLM-generated prescriptions
-- 🔊 Speaks the result in realistic doctor tone
-- 🌐 Web-based, responsive UI
+- 🎤 **Voice-to-Text Conversion** for collecting patient symptoms.
+- 🖼️ **Image Upload & Analysis** for visible skin conditions.
+- 💊 **Prescription Generation** powered by LLMs trained on medical dialogue patterns.
+- 🔊 **AI Doctor Voice** delivery using realistic text-to-speech.
+- 🧠 **Context-aware system prompt** ensures human-like, empathic outputs.
 
 ---
 
-## 🚀 Future Roadmap
+## 🧪 Tech Stack
 
-- Real-time skin disease classification
-- Multi-language voice support
-- Prescription PDF download & patient tracking
-
----
-
-## 🤝 Contributing
-
-Pull requests and suggestions are welcome!
+| Technology       | Purpose |
+|------------------|---------|
+| 🧩 **Gradio**     | Frontend for multimodal interface (voice + image upload) |
+| 🧠 **Groq LLM API** | Language model for generating natural language prescriptions |
+| 🔊 **ElevenLabs** | Realistic doctor-style voice synthesis |
+| 🖼️ **Python & PIL** | Image pre-processing |
+| ☁️ **Hosted Web App** | Easily accessible demo for recruiters and stakeholders |
 
 ---
 
-## 📃 License
+## 🧑‍⚕️ System Prompt
 
-Licensed under the **MIT License**.
+The core behavior of the model is controlled by a **custom system prompt** designed to ensure human-like, empathetic, and concise medical responses:
 
----
+```python
+system_prompt = """You have to act as a professional doctor. I know you are not, but this is for learning purposes. 
+What's in this image? Do you find anything wrong with it medically? If you make a differential, suggest some remedies for them.
+Do not add any numbers or special characters in your response. Your response should be in one long paragraph. 
+Always answer as if you are answering a real person. Do not say 'In the image I see' but say 'With what I see, I think you have ....'
+Do not respond as an AI model in markdown, and keep your answer concise (max 2 sentences). No preamble, start your answer immediately."""
