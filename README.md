@@ -1,6 +1,6 @@
 # 🩺 AI Doctor Voicebot
 
-A Gradio-based web app that takes **audio** and **image** input (like skin infections or other symptoms) and returns a detailed **doctor-style prescription** — both in **text** and **realistic doctor voice**.
+A Gradio-based AI web app that accepts **user voice** and **image input** (e.g., skin infection photos) and provides a **detailed medical prescription** in both **text format** and **realistic doctor-style voice**.
 
 ---
 
@@ -8,74 +8,84 @@ A Gradio-based web app that takes **audio** and **image** input (like skin infec
 
 ---
 
-## 🧑‍⚕️ Website UI Preview
+## 🖼️ Web App UI Preview
 
-![UI Screenshot](Output 1.jpg)
-![UI Screenshot](Output 2.jpg)
-![UI Screenshot](Output 3.jpg)
-![UI Screenshot](Output 4.jpg)
+The below outputs showcase how the app looks during real-time interaction:
+
+<p align="center">
+  <img src="Output/Output 1.jpg" width="45%" />
+  <img src="Output/Output 2.jpg" width="45%" />
+</p>
+<p align="center">
+  <img src="Output/Output 3.jpg" width="45%" />
+  <img src="Output/Output 4.jpg" width="45%" />
+</p>
 
 ---
 
-## 🎥 Input & Output Demonstration
+## 📥 Input & Output Comparison
 
-### 💬 Input and Output Preview 1
+### 🔄 Case 1
 
-| Input                        | Output                         |
-|-----------------------------|--------------------------------|
-| ![Input 1](Input.jpg)       | ![Output 1](Output.jpg)        |
+| 👈 Input | 👉 Output |
+|---------|----------|
+| ![Input 1](Output/Input.jpg) | ![Output 1](Output/Output.jpg) |
 
-### 💬 Input and Output Preview 2
+---
 
-| Input                        | Output                          |
-|-----------------------------|---------------------------------|
-| ![Input 2](Input_2.jpg)     | ![Output 2](Output_2.jpg)       |
+### 🔄 Case 2
 
-### 💬 Input and Output Preview 3
+| 👈 Input | 👉 Output |
+|---------|----------|
+| ![Input 2](Output/Input_2.jpg) | ![Output 2](Output/Output_2.jpg) |
 
-| Input                        | Output                          |
-|-----------------------------|---------------------------------|
-| ![Input 3](Input_3.jpg)     | ![Output 3](Output_3.jpg)       |
+---
+
+### 🔄 Case 3
+
+| 👈 Input | 👉 Output |
+|---------|----------|
+| ![Input 3](Output/Input_3.jpg) | ![Output 3](Output/Output_3.jpg) |
 
 ---
 
 ## ⚙️ Tech Stack
 
-| Feature        | Description |
-|----------------|-------------|
-| **Frontend**   | Built using [Gradio](https://gradio.app) for interactive UI |
-| **LLM Backend**| Powered by [Groq API](https://groq.com/) for smart medical text generation |
-| **Voice Output**| Generated using [ElevenLabs](https://www.elevenlabs.io/) for realistic doctor tones |
+| Component        | Description |
+|------------------|-------------|
+| 🧩 **Gradio**     | Used for building the interactive front-end UI |
+| 🧠 **Groq API**   | Handles Large Language Model (LLM) processing to generate accurate medical text |
+| 🎙️ **ElevenLabs** | Converts text prescriptions into realistic doctor-tone voice |
 
 ---
 
-## 📌 Features
+## ✨ Features
 
-- 🔊 Voice-based patient interaction
-- 🖼️ Image input for visible symptoms (like skin issues)
-- 💊 AI-generated text prescriptions
-- 🎙️ Doctor-tone voice output using ElevenLabs
-- 🌐 Simple, clean web app interface (Gradio)
+- 🔊 Accepts voice input from the user
+- 🖼️ Accepts image input of visible symptoms
+- 📝 Generates text-based medical prescriptions
+- 🎧 Returns spoken prescriptions in natural doctor tone
+- 🌐 Lightweight, interactive UI
 
 ---
 
-## 🛠️ Future Enhancements
+## 🚀 Future Enhancements
 
-- Real-time symptom detection with segmentation
-- Multilingual support for voice & text
-- Patient history integration
+- Real-time image detection & analysis
+- Support for regional languages
+- Patient history storage & recommendation system
 
 ---
 
 ## 🤝 Contributing
 
-Got ideas to enhance this virtual doctor? Feel free to fork and submit PRs!
+Contributions are welcome! Feel free to fork this project, raise issues, or submit pull requests.
 
 ---
 
 ## 📃 License
 
-MIT License
+This project is licensed under the **MIT License**.
 
 ---
 
