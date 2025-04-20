@@ -4,8 +4,8 @@
 > *Developed as a practical demonstration of multimodal AI using NLP, Speech Synthesis, and Image Analysis for healthcare applications.*
 
 ---
-👇👇 Click the following link to explore the full working demo of the project 👇👇:  
-## 🔗 [🚀 👉🏻👉🏻 Project Demo](https://www.youtube.com/watch?v=q0upOqxN18Y)
+⬇️⬇️ Click the following link to explore the full working demo of the project ⬇️⬇️:  
+## 🔗 [🚀↗️Project Demo](https://www.youtube.com/watch?v=q0upOqxN18Y)
 
 
 ---
@@ -29,7 +29,7 @@ Below are the output UI screenshots from the app in action:
 
 ### 🔄 Case 1 (Displayed after app generates result)
 
-| 👈 Input | 👉 Output |
+| Input ⬇️ | Output ⬇️ |
 |---------|----------|
 | <img src="https://github.com/TusharPawa/Ai-Doctor-Voicebot/blob/main/Outputs/Input.jpg?raw=true" width="450"/> | <img src="https://github.com/TusharPawa/Ai-Doctor-Voicebot/blob/main/Outputs/Ouput.jpg?raw=true" width="450"/> |
 
@@ -37,7 +37,7 @@ Below are the output UI screenshots from the app in action:
 
 ### 🔄 Case 2
 
-| 👈 Input | 👉 Output |
+| Input ⬇️ | Output ⬇️ |
 |---------|----------|
 | <img src="https://github.com/TusharPawa/Ai-Doctor-Voicebot/blob/main/Outputs/Input_2.jpg?raw=true" width="450"/> | <img src="https://github.com/TusharPawa/Ai-Doctor-Voicebot/blob/main/Outputs/Outpu_2.jpg?raw=true" width="450"/> |
 
@@ -45,7 +45,7 @@ Below are the output UI screenshots from the app in action:
 
 ### 🔄 Case 3
 
-| 👈 Input | 👉 Output |
+| Input ⬇️ | Output ⬇️ |
 |---------|----------|
 | <img src="https://github.com/TusharPawa/Ai-Doctor-Voicebot/blob/main/Outputs/Input_3.jpg?raw=true" width="450"/> | <img src="https://github.com/TusharPawa/Ai-Doctor-Voicebot/blob/main/Outputs/Output_3.jpg?raw=true" width="450"/> |
 
