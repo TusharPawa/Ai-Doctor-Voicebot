@@ -29,7 +29,7 @@ Below are the output UI screenshots from the app in action:
 
 | 👈 Input | 👉 Output |
 |---------|----------|
-| <img src="https://github.com/TusharPawa/Ai-Doctor-Voicebot/blob/main/Outputs/Input.jpg?raw=true" width="350"/> | <img src="https://github.com/TusharPawa/Ai-Doctor-Voicebot/blob/main/Outputs/Output.jpg?raw=true" width="350"/> |
+| <img src="https://github.com/TusharPawa/Ai-Doctor-Voicebot/blob/main/Outputs/Input.jpg?raw=true" width="350"/> | <img src="https://github.com/TusharPawa/Ai-Doctor-Voicebot/blob/main/Outputs/Ouput.jpg?raw=true" width="350"/> |
 
 ---
 
@@ -37,7 +37,7 @@ Below are the output UI screenshots from the app in action:
 
 | 👈 Input | 👉 Output |
 |---------|----------|
-| <img src="https://github.com/TusharPawa/Ai-Doctor-Voicebot/blob/main/Outputs/Input_2.jpg?raw=true" width="350"/> | <img src="https://github.com/TusharPawa/Ai-Doctor-Voicebot/blob/main/Outputs/Output_2.jpg?raw=true" width="350"/> |
+| <img src="https://github.com/TusharPawa/Ai-Doctor-Voicebot/blob/main/Outputs/Input_2.jpg?raw=true" width="350"/> | <img src="https://github.com/TusharPawa/Ai-Doctor-Voicebot/blob/main/Outputs/Outpu_2.jpg?raw=true" width="350"/> |
 
 ---
 
