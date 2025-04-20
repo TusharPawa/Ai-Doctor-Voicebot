@@ -10,10 +10,10 @@ A Gradio-based web app that takes **audio** and **image** input (like skin infec
 
 ## 🧑‍⚕️ Website UI Preview
 
-![UI Screenshot](Output%201.jpg)
-![UI Screenshot](Output%202.jpg)
-![UI Screenshot](Output%203.jpg)
-![UI Screenshot](Output%204.jpg)
+![UI Screenshot](Output 1.jpg)
+![UI Screenshot](Output 2.jpg)
+![UI Screenshot](Output 3.jpg)
+![UI Screenshot](Output 4.jpg)
 
 ---
 
