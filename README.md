@@ -27,39 +27,17 @@ Below are the output UI screenshots from the WebApp in action:
 
 ## 🧪 Input vs Output Results
 
-### 🔄 Case 1 (Displayed after app generates result)
 <!DOCTYPE html>
 <html>
-<head>
-  <title>AI Doctor Voicebot</title>
-</head>
-<body>
-  <table>
-    <tr>
-      <th>Input ⬇️</th>
-      <th>Output ⬇️</th>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://github.com/TusharPawa/Ai-Doctor-Voicebot/blob/main/Outputs/Input.jpg?raw=true" width="450"/><br><br>
-        🎧 <strong>User Audio:</strong><br>
-        <audio controls>
-          <source src="https://raw.githubusercontent.com/TusharPawa/Ai-Doctor-Voicebot/main/Outputs/Input.mp3" type="audio/mpeg">
-          Your browser does not support the audio element.
-        </audio>
-      </td>
-      <td>
-        <img src="https://github.com/TusharPawa/Ai-Doctor-Voicebot/blob/main/Outputs/Ouput.jpg?raw=true" width="450"/><br><br>
-        🎧 <strong>Model (Doctor) Audio:</strong><br>
-        <audio controls>
-          <source src="https://raw.githubusercontent.com/TusharPawa/Ai-Doctor-Voicebot/main/Outputs/Output.mp3" type="audio/mpeg">
-          Your browser does not support the audio element.
-        </audio>
-      </td>
-    </tr>
-  </table>
-</body>
+  <body>
+    <h3>User Audio</h3>
+    <audio controls>
+      <source src="https://raw.githubusercontent.com/TusharPawa/Ai-Doctor-Voicebot/main/Outputs/Input.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </body>
 </html>
+
 
 
 
