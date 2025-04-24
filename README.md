@@ -31,7 +31,7 @@ Below are the output UI screenshots from the WebApp in action:
 
 | Input ⬇️ | Output ⬇️ |
 |---------|----------|
-| <img src="https://github.com/TusharPawa/Ai-Doctor-Voicebot/blob/main/Outputs/Input.jpg?raw=true" width="450"/> | <img src="https://github.com/TusharPawa/Ai-Doctor-Voicebot/blob/main/Outputs/Ouput.jpg?raw=true" width="450"/> |
+| <img src="https://github.com/TusharPawa/Ai-Doctor-Voicebot/blob/main/Outputs/Input.jpg?raw=true" width="450"/><br><br>🎧 **User Audio:**<br><audio controls><source src="https://raw.githubusercontent.com/TusharPawa/Ai-Doctor-Voicebot/main/Outputs/Input.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio> | <img src="https://github.com/TusharPawa/Ai-Doctor-Voicebot/blob/main/Outputs/Ouput.jpg?raw=true" width="450"/><br><br>🎧 **Model (Doctor) Audio:**<br><audio controls><source src="https://raw.githubusercontent.com/TusharPawa/Ai-Doctor-Voicebot/main/Outputs/Output.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio> |
 
 
 
