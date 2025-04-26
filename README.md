@@ -30,7 +30,7 @@ Below are the output UI screenshots from the WebApp in action:
 | Input ⬇️ | Output ⬇️ |
 |---------|----------|
 | <img src="https://github.com/TusharPawa/Ai-Doctor-Voicebot/blob/main/Outputs/Input.jpg?raw=true" width="450"/> | <img src="https://github.com/TusharPawa/Ai-Doctor-Voicebot/blob/main/Outputs/Ouput.jpg?raw=true" width="450"/> |
-|---------|----------|
+
 
 
 
